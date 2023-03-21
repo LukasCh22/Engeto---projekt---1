@@ -6,7 +6,7 @@ První projekt na Python Akademii od Engeta.
 Program nejdříve ověří, jestli je uživatel zaregistrovaný, pokud ano, pozdraví jej a umožní mu analyzovat texty.
 Pokud uživatel registrovaný není, upozorní jej na to a program se ukončí.
 
-Dále program nechá vybrat uživatele mezi třemi texty k analýze a spočítá násladující statistiky:
+Dále program nechá vybrat uživatele mezi třemi texty k analýze a spočítá následující statistiky:
 
 1. počet slov,
 2. počet slov začínajících velkým písmenem
